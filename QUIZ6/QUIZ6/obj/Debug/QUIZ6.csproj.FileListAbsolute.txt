@@ -1,0 +1,21 @@
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ6\QUIZ6\bin\Debug\QUIZ6.exe.config
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ6\QUIZ6\bin\Debug\QUIZ6.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ6\QUIZ6\bin\Debug\QUIZ6.pdb
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ6\QUIZ6\obj\Debug\QUIZ6.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ6\QUIZ6\obj\Debug\QUIZ6.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ6\QUIZ6\obj\Debug\QUIZ6.pdb
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ6\QUIZ6\obj\Debug\QUIZ6.csprojAssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ6\QUIZ6\bin\Debug\QUIZ6.exe.config
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ6\QUIZ6\bin\Debug\QUIZ6.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ6\QUIZ6\bin\Debug\QUIZ6.pdb
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ6\QUIZ6\obj\Debug\QUIZ6.csprojAssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ6\QUIZ6\obj\Debug\QUIZ6.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ6\QUIZ6\obj\Debug\QUIZ6.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ6\QUIZ6\obj\Debug\QUIZ6.pdb
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\C#\EXAMEN\QUIZ6\QUIZ6\bin\Debug\QUIZ6.exe.config
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\C#\EXAMEN\QUIZ6\QUIZ6\bin\Debug\QUIZ6.exe
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\C#\EXAMEN\QUIZ6\QUIZ6\bin\Debug\QUIZ6.pdb
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\C#\EXAMEN\QUIZ6\QUIZ6\obj\Debug\QUIZ6.csprojAssemblyReference.cache
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\C#\EXAMEN\QUIZ6\QUIZ6\obj\Debug\QUIZ6.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\C#\EXAMEN\QUIZ6\QUIZ6\obj\Debug\QUIZ6.exe
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\C#\EXAMEN\QUIZ6\QUIZ6\obj\Debug\QUIZ6.pdb

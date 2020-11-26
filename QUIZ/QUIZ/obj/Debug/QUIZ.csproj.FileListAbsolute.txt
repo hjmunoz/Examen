@@ -1,0 +1,7 @@
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ\QUIZ\bin\Debug\QUIZ.exe.config
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ\QUIZ\bin\Debug\QUIZ.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ\QUIZ\bin\Debug\QUIZ.pdb
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ\QUIZ\obj\Debug\QUIZ.csprojAssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ\QUIZ\obj\Debug\QUIZ.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ\QUIZ\obj\Debug\QUIZ.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ\QUIZ\obj\Debug\QUIZ.pdb

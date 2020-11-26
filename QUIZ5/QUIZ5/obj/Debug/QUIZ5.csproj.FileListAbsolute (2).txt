@@ -1,0 +1,7 @@
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ5\QUIZ5\bin\Debug\QUIZ5.exe.config
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ5\QUIZ5\bin\Debug\QUIZ5.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ5\QUIZ5\bin\Debug\QUIZ5.pdb
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ5\QUIZ5\obj\Debug\QUIZ5.csprojAssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ5\QUIZ5\obj\Debug\QUIZ5.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ5\QUIZ5\obj\Debug\QUIZ5.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ5\QUIZ5\obj\Debug\QUIZ5.pdb

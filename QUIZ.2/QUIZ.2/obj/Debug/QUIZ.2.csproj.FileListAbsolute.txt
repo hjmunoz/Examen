@@ -1,0 +1,14 @@
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ.2\QUIZ.2\bin\Debug\QUIZ.2.exe.config
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ.2\QUIZ.2\bin\Debug\QUIZ.2.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ.2\QUIZ.2\bin\Debug\QUIZ.2.pdb
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ.2\QUIZ.2\obj\Debug\QUIZ.2.csprojAssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ.2\QUIZ.2\obj\Debug\QUIZ.2.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ.2\QUIZ.2\obj\Debug\QUIZ.2.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\QUIZ.2\QUIZ.2\obj\Debug\QUIZ.2.pdb
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ.2\QUIZ.2\bin\Debug\QUIZ.2.exe.config
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ.2\QUIZ.2\bin\Debug\QUIZ.2.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ.2\QUIZ.2\bin\Debug\QUIZ.2.pdb
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ.2\QUIZ.2\obj\Debug\QUIZ.2.csprojAssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ.2\QUIZ.2\obj\Debug\QUIZ.2.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ.2\QUIZ.2\obj\Debug\QUIZ.2.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\EXAMEN\QUIZ.2\QUIZ.2\obj\Debug\QUIZ.2.pdb
